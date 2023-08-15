@@ -62,8 +62,8 @@
             function animate() {
                 requestAnimationFrame(animate);
                 // // 1초에 60번 정도 실행
-                // gltf.scene.rotation.y += 0.01
-                // // 회전(y축)
+                gltf.scene.rotation.y += 0.01
+                // 회전(y축)
                 renderer.render(scene, camera);
                 controls.update();
             }
