@@ -1,5 +1,9 @@
 # Threejs를 활용한 3D 모델링(gltf 파일 형식)
 
+https://threejs.org/
+
+
+
 
 `원본`
 
@@ -33,6 +37,7 @@
 
 
 
+++ y축 회전
 
 
 
